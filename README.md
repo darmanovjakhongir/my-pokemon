@@ -1,4 +1,4 @@
-# My Pokemon Project
+# My Pokemon
 
 My Pokemon project is a web application built using React. It integrates with PokeAPI to retrieve and display Pokemon data, allowing users to search and view detailed information about different Pokemon.
 
